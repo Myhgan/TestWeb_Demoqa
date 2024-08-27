@@ -1,0 +1,37 @@
+[
+  {
+    "a": 0,
+    "b": "201",
+    "c": "Created"
+  },
+  {
+     "a": 1,
+     "b": "204",
+     "c": "No Content"
+   },
+   {
+     "a": 2,
+     "b": "301",
+     "c": "Moved Permanently"
+   },
+   {
+        "a": 3,
+        "b": "400",
+        "c": "Bad Request"
+     },
+  {
+    "a": 4,
+    "b": "401",
+    "c": "Unauthorized"
+  },
+  {
+    "a": 5,
+    "b": "403",
+    "c": "Forbidden"
+  },
+  {
+    "a": 6,
+    "b": "404",
+    "c": "Not Found"
+  }
+]
